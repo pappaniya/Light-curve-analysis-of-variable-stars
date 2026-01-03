@@ -6,7 +6,7 @@ This project analyses the light curves of variable stars from the NASA TESS miss
 -removes Nans and normalizes the curve.
 -bins the curve and plots the original curve.
 -plots folded curve and its power vs frequency curve.
--computes the star's most ikely period.
+-computes the star's most likely period.
 
 ## NOTE
 -currently supports TESS data only.
